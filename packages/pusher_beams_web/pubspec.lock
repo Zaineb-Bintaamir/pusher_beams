@@ -171,10 +171,9 @@ packages:
   pusher_beams_platform_interface:
     dependency: "direct main"
     description:
-      name: pusher_beams_platform_interface
-      sha256: "90645da247512f080a29d95b23a46998d2f81c37c849376288debf9625457731"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../pusher_beams_platform_interface"
+      relative: true
+    source: path
     version: "1.1.1"
   sky_engine:
     dependency: transitive
